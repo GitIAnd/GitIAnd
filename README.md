@@ -1,4 +1,10 @@
-### Hi there 👋
+Olá 👋
+
+Sou o André, apaixonado pela área de tecnologia e atualmente estou cursando Desenvolvedor Full Stack Java na EBAC (Escola Britânica de Artes Criativas e Tecnologia).
+
+A área de programação foi a que mais me chamou atenção e o Desenvolvimento Web foi o que escolhi para me especializar, pois gosto muito de como funciona toda a construção de uma página Web e como cada elemento tem sua importância para que o produto final seja um sucesso.
+
+Caso queira entrar em contato, você pode me encontrar em: linkedin.com/in/andrepituassu
 
 <!--
 **GitIAnd/GitIAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
